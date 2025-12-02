@@ -8,7 +8,7 @@
 
   <p align="center">
     <b>Applied Mathematics & Data Science Engineering Student</b><br>
-    Metz / Palaiseau, France 🇫🇷
+    Metz / Palaiseau, France
   </p>
 
   <a href="https://vemz.github.io">
