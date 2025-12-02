@@ -3,7 +3,7 @@
   # Hi, I'm Vadim Hemzellec-Davidson
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science+Student;%40+École+Polytechnique+%26+Télécom+SudParis;Looking+for+R%26D+Internship+(Spring+2026)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science+Student;%40+École+Polytechnique+%26+Télécom+SudParis" alt="Typing SVG" />
   </a>
 
   <p align="center">
